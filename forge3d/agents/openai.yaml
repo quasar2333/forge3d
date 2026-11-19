@@ -1,0 +1,4 @@
+interface:
+  display_name: "Forge3D"
+  short_description: "Reference-faithful 3D models in Blender and Blockbench"
+  default_prompt: "Use $forge3d to model this reference image in 3D and show me how closely it matches."
