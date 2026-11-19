@@ -10,9 +10,15 @@
 
 ## 银发角色
 
-同一张合成三视图，两次任务分别启用和关闭 Skill。侧面发量、背部发束和髋腿连接的差异最明显。这是较早的工作流测试，启用 Skill 的一版有额外的分件检查和装配检查，花的时间更长。
+这组用的是完成脸部修订后的 Blender 成品。正面可以查看脸颊到下颌的收窄，斜视可以查看鼻梁、下巴和发际的衔接。两张图都从同一个最终模型渲染。
 
-![银发角色正侧背三视图](media/anime-ab.jpg)
+![银发角色的修订后正面与斜视](media/silver-final.jpg)
+
+## 千早爱音
+
+按《BanG Dream!》的三视图做的同人练习。正面和侧面均为最终模型渲染，可以看到下颌轮廓和脸颊两侧发束的位置。
+
+![千早爱音最终模型的正面与侧面](media/anon-final.jpg)
 
 ## Blockbench 蝎形机甲
 
@@ -22,7 +28,6 @@
 
 ## 其他测试
 
-- 千早爱音（《BanG Dream!》）有独立的无 Skill 版和 Forge3d 版，两版以同机位对照侧脸和发束。
 - 赛罗奥特曼有无 Skill 版、Forge3d 版和单列的后续精修。精修稿是同一作品的迭代。
 
-这两组角色是建模流程的同人测试，角色、参考图和模型文件无需随 Skill 下载。原作资料见 [BanG Dream! 官网](https://bang-dream.com/artist/mygo/chihaya-anon/) 和 [圆谷官网](https://tsuburaya-prod.com/heroes/ultraman-zero)。
+千早爱音和赛罗是同人建模测试。角色和参考素材的权利归原权利人。原作资料见 [BanG Dream! 官网](https://bang-dream.com/artist/mygo/chihaya-anon/) 和 [圆谷官网](https://tsuburaya-prod.com/heroes/ultraman-zero)。
