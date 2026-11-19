@@ -44,3 +44,7 @@ python3 forge3d/scripts/f3d.py doctor
 ## 费用
 
 Forge3d 的代码和建模流程可以免费获取。Codex 的模型用量走你的账户，默认的本地 Blender 和 Blockbench 流程不要求向第三方建模站点付费。
+
+## 许可证
+
+Forge3d 的代码和文档以 [MIT 许可证](LICENSE)发布。演示中的第三方角色和素材保留各自权利。
